@@ -4,7 +4,6 @@ Assets (js, css) for [gem 'bootstrap-autocomplete-input'](https://github.com/max
 
 Use with Webpack and Yarn.
 
-```
 
-
-```
+# Install
+see https://github.com/maxivak/boostrap_autocomplete_input
